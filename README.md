@@ -6,7 +6,7 @@ Open the program (file "cinema_hall.py") in the Python console and enter the req
   2. specify number of seats in each row (between 10 and 50)
   3. select seat numbering direction (from left to right or vice versa)
 
-The program will display the designed seating arrangement in the cinema hall with correct numbering. 
+The program will display the designed seating arrangement in the cinema hall with correct numbering. <br>
 Rows are counted from the side of the screen up:
 
 <pre>
